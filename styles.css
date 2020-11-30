@@ -1,0 +1,25 @@
+
+h1 {
+    color: navy
+}
+
+* {
+    border: solid;
+}
+.header{
+    background-color: red;
+    display:flex;
+    justify-content: space-evenly ;
+}
+
+.collection{
+    display: space-evenly;
+    flex-wrap: wrap;
+}
+
+a:link{
+    color: yellow;
+}
+a:visited{
+    color:palegreen;
+}
